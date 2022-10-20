@@ -1,0 +1,22 @@
+{
+  "name": "inspired-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinsobasuyi/Inspired-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collinsobasuyi/Inspired-Testing/issues"
+  },
+  "homepage": "https://github.com/collinsobasuyi/Inspired-Testing#readme",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
